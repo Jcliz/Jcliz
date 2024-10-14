@@ -1,5 +1,5 @@
 ```java
-import Desenvolvedor from "Jcliz";
+import Desenvolvedor from Jcliz;
 
 public class SobreMim extends Desenvolvedor {
     String nome = "João Pedro Cardoso de Liz";
