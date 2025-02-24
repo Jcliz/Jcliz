@@ -9,7 +9,7 @@ public class SobreMim extends Desenvolvedor {
 
     public void Skills() {
       linguagens = [Java, Python, MySQL, Node.Js, JavaScript];
-      frameworks = [Bootstrap];
+      frameworks = [Spring Boot, Bootstrap];
     }
 }
 ```
