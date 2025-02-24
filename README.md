@@ -16,7 +16,7 @@ public class SobreMim extends Desenvolvedor {
 
 ## 📚 Sobre mim
 
-Sou um estudante de BSI (Bacharelado de Sistemas de Informação) no 3º período,  com experiência em Java, Spring Boot, Python, MySQL, Mongo DB, JavaScript, Node.js e tecnologias de front-end, como HTML, CSS e bootstrap. Gosto de me desafiar e, sempre que posso, 
+Sou um estudante de BSI (Bacharelado de Sistemas de Informação) no 3º período, com experiência em Java, Spring Boot, Python, MySQL, JPA, JavaScript, Node.js e tecnologias de front-end, como HTML, CSS e bootstrap. Gosto de me desafiar e, sempre que posso, 
 estudar tecnologias novas e conceitos que não conhecia antes. Minha área é a de back-end e tenho como objetivo trabalhar com Java.
 
 ## 👨‍💻 Experiências
