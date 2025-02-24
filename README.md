@@ -16,7 +16,7 @@ public class SobreMim extends Desenvolvedor {
 
 ## 📚 Sobre mim
 
-Sou um estudante de BSI (Bacharelado de Sistemas de Informação) no 3º período, com experiência em Java, Spring Boot, Python, MySQL, JPA, JavaScript, Node.js e tecnologias de front-end, como HTML, CSS e bootstrap. Gosto de me desafiar e, sempre que posso, 
+Sou um estudante de BSI (Bacharelado de Sistemas de Informação) no 3º período. Gosto de me desafiar e, sempre que posso, 
 estudar tecnologias novas e conceitos que não conhecia antes. Minha área é a de back-end e tenho como objetivo trabalhar com Java.
 
 ## 👨‍💻 Experiências
@@ -29,6 +29,7 @@ estudar tecnologias novas e conceitos que não conhecia antes. Minha área é a 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-%23B4AA77.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) -->
 
 <!-- ## 🎓 Atualmente estou aperfeiçoando meus conhecimentos em:
