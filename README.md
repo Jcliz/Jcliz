@@ -32,11 +32,11 @@ estudar tecnologias novas e conceitos que não conhecia antes. Minha área é a 
 ![JPA](https://img.shields.io/badge/JPA-%23B4AA77.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) -->
 
-<!-- ## 🎓 Atualmente estou aperfeiçoando meus conhecimentos em:
+## 🎓 Atualmente estou aperfeiçoando meus conhecimentos em:
 
 <div width="50%" height="200px">
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) -->
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%23000000)
 
 ## 📊 Status Github
 
