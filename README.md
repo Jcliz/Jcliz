@@ -16,8 +16,8 @@ public class SobreMim extends Desenvolvedor {
 
 ## 📚 Sobre mim
 
-Sou um estudante de BSI (Bacharelado de Sistemas de Informação) no 3º período. Gosto de me desafiar e, sempre que posso, 
-estudar tecnologias novas e conceitos que não conhecia antes. Minha área é a de back-end e tenho como objetivo trabalhar com Java.
+Sou um estudante de BSI (Bacharelado de Sistemas de Informação) no 5º período. Gosto de me desafiar e, sempre que posso, 
+estudar tecnologias novas e conceitos que não conhecia antes.
 
 ## 👨‍💻 Experiências
 
