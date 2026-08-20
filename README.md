@@ -3,20 +3,20 @@ import Desenvolvedor from Jcliz;
 
 public class SobreMim extends Desenvolvedor {
     String nome = "João Pedro Cardoso de Liz";
-    String area = "Back-end";
-    String trabalho = "SMAP-TI";
-    String local = "Curitiba - PR";
+    String area = "Fullstack";
+    String trabalho = "Obra Prima";
+    String local = "Curitiba - PR | Remoto";
 
     public void Skills() {
-      linguagens = [Java, Python, MySQL, Node.Js, JavaScript];
-      frameworks = [Spring Boot, Bootstrap];
+      linguagens = [Java, Python, MySQL, Node.Js];
+      frameworks = [Spring Boot, Bootstrap, .net];
     }
 }
 ```
 
 ## 📚 Sobre mim
 
-Sou um estudante de BSI (Bacharelado de Sistemas de Informação) no 5º período. Gosto de me desafiar e, sempre que posso, 
+Sou um estudante de BSI (Bacharelado de Sistemas de Informação) no 6º período. Gosto de me desafiar e, sempre que posso, 
 estudar tecnologias novas e conceitos que não conhecia antes.
 
 ## 👨‍💻 Experiências
@@ -31,16 +31,3 @@ estudar tecnologias novas e conceitos que não conhecia antes.
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-%23B4AA77.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) -->
-
-## 🎓 Atualmente estou aperfeiçoando meus conhecimentos em:
-
-<div width="50%" height="200px">
-
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%23000000)
-
-## 📊 Status Github
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jcliz&show_icons=true&theme=dark" style="width: 49%; height: auto;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jcliz&layout=compact&theme=dark" style="width: 37%; height: auto;" />
-</div>
